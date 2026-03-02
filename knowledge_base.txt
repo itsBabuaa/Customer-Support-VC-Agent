@@ -1,0 +1,158 @@
+# NovaLaptops — Customer Support Knowledge Base
+
+## Company Overview
+- Company: NovaLaptops
+- Industry: Online laptop retail
+- Support Hours: 9:00 AM - 9:00 PM EST, 7 days a week
+- Website: www.novalaptops.com
+- Phone: 1-800-NOVA-LAP
+
+## Product Lineup
+
+### NovaPro 16 (SKU: PRO-16) — $1,899
+- Category: Professional workstation
+- CPU: Intel Core i9-14900HX (24 cores)
+- RAM: 32GB DDR5-5600
+- Storage: 1TB PCIe Gen4 NVMe SSD
+- GPU: NVIDIA RTX 4070 8GB
+- Display: 16" 2560x1600 165Hz IPS, 100% sRGB
+- Battery: 90Wh, ~8 hours typical use
+- Weight: 2.1 kg / 4.6 lbs
+- Ports: 2x Thunderbolt 4, 1x USB-A, HDMI 2.1, SD card reader
+- Warranty: 2 years
+- Best for: Software development, video editing, 3D rendering
+
+### NovaAir 14 (SKU: AIR-14) — $1,299
+- Category: Ultrabook
+- CPU: Intel Core Ultra 7 155H
+- RAM: 16GB LPDDR5x-7467
+- Storage: 512GB PCIe Gen4 NVMe SSD
+- GPU: Intel Arc integrated
+- Display: 14" 2880x1800 120Hz OLED, 100% DCI-P3
+- Battery: 72Wh, ~12 hours typical use
+- Weight: 1.2 kg / 2.6 lbs
+- Ports: 2x Thunderbolt 4, 1x USB-A, HDMI 2.0
+- Warranty: 2 years
+- Best for: Business travel, presentations, everyday productivity
+
+### NovaBook 15 (SKU: STU-15) — $699
+- Category: Student / Budget
+- CPU: AMD Ryzen 5 7535HS (6 cores)
+- RAM: 16GB DDR5-4800
+- Storage: 512GB PCIe Gen3 NVMe SSD
+- GPU: AMD Radeon integrated
+- Display: 15.6" 1920x1080 60Hz IPS
+- Battery: 56Wh, ~9 hours typical use
+- Weight: 1.7 kg / 3.7 lbs
+- Ports: 1x USB-C, 2x USB-A, HDMI 1.4, headphone jack
+- Warranty: 1 year
+- Best for: Students, web browsing, office work, light coding
+
+### NovaForce 17 (SKU: GAM-17) — $2,499
+- Category: Gaming
+- CPU: AMD Ryzen 9 7945HX (16 cores)
+- RAM: 32GB DDR5-5600
+- Storage: 2TB PCIe Gen4 NVMe SSD
+- GPU: NVIDIA RTX 4080 12GB
+- Display: 17.3" 2560x1440 240Hz IPS, G-Sync
+- Battery: 99Wh, ~5 hours typical use
+- Weight: 2.8 kg / 6.2 lbs
+- Ports: 1x Thunderbolt 4, 2x USB-A, HDMI 2.1, Ethernet RJ45
+- Warranty: 2 years
+- Best for: AAA gaming, streaming, VR, machine learning
+
+## Accessories
+- USB-C Hub (7-in-1): $49
+- Laptop Sleeve (14"/15"/16"/17"): $29-$39
+- Wireless Mouse: $25
+- Extended Warranty (+1 year): $99-$149 depending on model
+
+## Ordering & Shipping
+- Order Methods: Website, phone (1-800-NOVA-LAP)
+- Processing Time: 1-2 business days
+- Standard Shipping: Free on orders over $999, otherwise $15 flat rate
+- Express Shipping: $29 (2-day), $49 (next-day)
+- International Shipping: Available to 30+ countries, rates vary
+- Tracking: Emailed within 24 hours of shipment
+- Carriers: UPS, FedEx
+
+## Payment Methods
+- Credit Card: Visa, Mastercard, Amex, Discover
+- Debit Card: All major banks
+- PayPal: Standard and Pay Later
+- Financing: 0% APR for 12 months on orders over $500 (via Affirm)
+- Gift Cards: Available in $50, $100, $250, $500 denominations
+
+## Returns & Refunds
+- Return Window: 30 days from delivery date
+- Condition: Must be in original packaging with all accessories
+- Restocking Fee: None for unopened items; 15% for opened items
+- Refund Method: Original payment method, 5-7 business days
+- Defective Products: Free return shipping, full refund or replacement
+- How to Start: Call support or visit My Account > Orders > Return
+
+## Warranty
+- Standard: 1 year (NovaBook), 2 years (NovaPro, NovaAir, NovaForce)
+- Coverage: Manufacturing defects, hardware failures, battery degradation >20%
+- NOT Covered: Accidental damage, liquid spills, unauthorized modifications
+- Extended Warranty: Available at purchase or within 30 days
+- Claim Process: Call support with order ID, describe issue, receive RMA number
+- Turnaround: 5-10 business days for repair/replacement
+
+## Technical Support
+- Software Issues: OS reinstall guide available on website
+- Driver Updates: Download center at novalaptops.com/drivers
+- BIOS Updates: Available per model, instructions included
+- Common Issues:
+  - Won't turn on → Hold power 15 seconds, try different charger
+  - Slow performance → Check Task Manager, update drivers, run disk cleanup
+  - Wi-Fi issues → Reset network adapter, update Wi-Fi driver
+  - Battery draining fast → Check power settings, reduce brightness, update BIOS
+  - Screen flickering → Update GPU driver, check refresh rate settings
+
+## Frequently Asked Questions
+
+Q1: What is your best laptop for programming?
+A: The NovaPro 16 ($1,899) with its i9 processor, 32GB RAM, and 16" display is ideal for development work.
+
+Q2: Do you have student discounts?
+A: Yes, verified students get 10% off any laptop. Use code STUDENT10 at checkout or mention it on the phone.
+
+Q3: Can I upgrade the RAM or storage after purchase?
+A: The NovaPro 16 and NovaForce 17 have user-upgradeable RAM and storage. The NovaAir 14 and NovaBook 15 have soldered RAM but upgradeable storage.
+
+Q4: What's the difference between NovaPro and NovaForce?
+A: NovaPro is optimized for professional work (color-accurate display, balanced performance). NovaForce is built for gaming (high refresh rate, more powerful GPU).
+
+Q5: Do you offer trade-in programs?
+A: Yes, trade in any working laptop for $50-$300 credit depending on condition and specs. Visit novalaptops.com/trade-in.
+
+Q6: How long does the battery last in real use?
+A: Varies by model and workload. NovaAir 14 leads at ~12 hours for light use. Gaming laptops typically get 3-5 hours under load.
+
+Q7: Can I finance my purchase?
+A: Yes, 0% APR for 12 months on orders over $500 through Affirm. Apply at checkout.
+
+Q8: What if my laptop arrives damaged?
+A: Contact us immediately. We'll arrange free return shipping and send a replacement or full refund.
+
+Q9: Do you ship internationally?
+A: Yes, to 30+ countries. Shipping rates and delivery times vary by destination.
+
+Q10: How do I track my order?
+A: You'll receive a tracking email within 24 hours of shipment. You can also check My Account > Orders on our website.
+
+Q11: What charger comes with the laptop?
+A: All models include a USB-C charger. NovaPro and NovaForce also include a barrel-plug charger for maximum charging speed.
+
+Q12: Is the keyboard backlit?
+A: Yes, all models have backlit keyboards. NovaForce 17 has per-key RGB lighting.
+
+Q13: Can I use an external monitor?
+A: Yes, all models support at least one external display via HDMI. Thunderbolt 4 models support up to two 4K displays.
+
+Q14: What operating system is pre-installed?
+A: All laptops come with Windows 11 Home. Windows 11 Pro upgrade available for $49.
+
+Q15: Do you offer business/bulk pricing?
+A: Yes, orders of 5+ units qualify for volume discounts. Contact sales@novalaptops.com.

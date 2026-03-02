@@ -1,0 +1,29 @@
+[project]
+name = "voice-agent"
+version = "0.1.0"
+description = "Autonomous Voice AI Agent with Tool Use, RAG, Memory & Human Escalation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "livekit-agents>=1.0.0",
+    "livekit-plugins-groq>=1.0.0",
+    "livekit-plugins-deepgram>=1.0.0",
+    "livekit-plugins-elevenlabs>=1.0.0",
+    "livekit-plugins-silero>=1.0.0",
+    "livekit-plugins-noise-cancellation>=0.2.0",
+    "python-dotenv>=1.0.0",
+    "openai>=1.0.0",
+    "faiss-cpu>=1.7.0",
+    "numpy>=1.24.0",
+    "python-docx>=1.0.0",
+    "python-pptx>=0.6.0",
+    "PyPDF2>=3.0.0",
+    "openpyxl>=3.1.0",
+]
+
+[project.scripts]
+voice-agent = "app.main:cli"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
