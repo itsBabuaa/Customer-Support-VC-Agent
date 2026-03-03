@@ -1,4 +1,4 @@
-# NovaLaptops Voice AI Agent
+# Customer Support Voice AI Agent
 
 Autonomous voice customer support agent with real-time speech streaming, tool use, RAG retrieval, conversation memory, human escalation, and full observability.
 
@@ -124,4 +124,5 @@ uv run python agent.py dev
 | `GROQ_API_KEY` | Groq API key (LLM) |
 | `DEEPGRAM_API_KEY` | Deepgram API key (STT) |
 | `ELEVEN_API_KEY` | ElevenLabs API key (TTS) |
+
 | `OPENAI_API_KEY` | OpenAI API key (embeddings for RAG) |
